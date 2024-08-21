@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.p-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'roboto';
+}
+
+.p-head {
+  color: #f1f5f9;
+}
+
+.p-img {
+  width: 300px;
+}
+
+.p-para {
+  color: white;
+}
+
