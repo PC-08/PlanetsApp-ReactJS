@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/PlanetsApp-ReactJS/static/css/main.eed3f9b2.chunk.css",
+    "main.js": "/PlanetsApp-ReactJS/static/js/main.684fee18.chunk.js",
+    "main.js.map": "/PlanetsApp-ReactJS/static/js/main.684fee18.chunk.js.map",
+    "runtime-main.js": "/PlanetsApp-ReactJS/static/js/runtime-main.8b9b4907.js",
+    "runtime-main.js.map": "/PlanetsApp-ReactJS/static/js/runtime-main.8b9b4907.js.map",
+    "static/js/2.00189c78.chunk.js": "/PlanetsApp-ReactJS/static/js/2.00189c78.chunk.js",
+    "static/js/2.00189c78.chunk.js.map": "/PlanetsApp-ReactJS/static/js/2.00189c78.chunk.js.map",
+    "index.html": "/PlanetsApp-ReactJS/index.html",
+    "static/css/main.eed3f9b2.chunk.css.map": "/PlanetsApp-ReactJS/static/css/main.eed3f9b2.chunk.css.map",
+    "static/js/2.00189c78.chunk.js.LICENSE.txt": "/PlanetsApp-ReactJS/static/js/2.00189c78.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b9b4907.js",
+    "static/js/2.00189c78.chunk.js",
+    "static/css/main.eed3f9b2.chunk.css",
+    "static/js/main.684fee18.chunk.js"
+  ]
+}
